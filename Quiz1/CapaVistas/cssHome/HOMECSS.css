@@ -1,0 +1,73 @@
+﻿
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 30px 0;
+}
+
+    header h1 {
+        font-size: 3em;
+        margin: 0;
+    }
+
+.container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.welcome-section {
+    text-align: center;
+    margin-top: 50px;
+    background-color: #f4f4f4;
+    padding: 40px;
+    border-radius: 8px;
+    border: 2px solid #000000;
+}
+
+    .welcome-section h2 {
+        font-size: 2.5em;
+        color: #000000;
+    }
+
+    .welcome-section p {
+        font-size: 1.2em;
+        color: #333333;
+        margin-top: 20px;
+        line-height: 1.6;
+    }
+
+.cta-button {
+    display: inline-block;
+    padding: 15px 30px;
+    background-color: #000000;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 30px;
+    font-size: 1.2em;
+}
+
+    .cta-button:hover {
+        background-color: #333333;
+    }
+
+.footer {
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+
